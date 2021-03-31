@@ -87,7 +87,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="src"></stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
