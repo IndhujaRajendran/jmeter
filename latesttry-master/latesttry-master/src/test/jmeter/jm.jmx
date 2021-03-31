@@ -87,7 +87,7 @@
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
-          <stringProp name="src"></stringProp>
+          <stringProp name="jmeter"></stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
